@@ -3,6 +3,8 @@ Allure TestOps Stored XSS vulnerability
 
 # Reproduce
 
+- Create a exploit.txt file that contains a js code
+
 - Go to projects
 
 <img src="XSS/1.png">
@@ -18,3 +20,11 @@ Allure TestOps Stored XSS vulnerability
 - Choose a test case then, attachment tab
 
 <img src="XSS/4.png">
+
+- Click upload and upload your file
+
+<img src="XSS/8.png">
+
+# PoC
+
+<img src="XSS/9.png">
