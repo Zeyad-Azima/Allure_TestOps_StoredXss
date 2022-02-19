@@ -6,3 +6,7 @@ Allure TestOps Stored XSS vulnerability
 - Go to projects
 
 <img src="XSS/1.png">
+
+- Then, click on a project oer create one
+
+<img src="XSS/2.png">
