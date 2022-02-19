@@ -3,5 +3,6 @@ Allure TestOps Stored XSS vulnerability
 
 # Reproduce
 
-Go to projects
+- Go to projects
+
 <img src="XSS/1.png">
