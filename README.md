@@ -17,4 +17,4 @@ Allure TestOps Stored XSS vulnerability
 
 - Choose a test case then, attachment tab
 
-<img src="XSS/5.png">
+<img src="XSS/4.png">
