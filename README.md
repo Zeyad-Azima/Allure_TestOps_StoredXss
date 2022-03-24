@@ -1,4 +1,4 @@
-# Allure_TestOps_StoredXss
+# Allure_TestOps_StoredXss (CVE-2022-25587)
 Allure TestOps Stored XSS vulnerability
 
 # Reproduce
